@@ -1,4 +1,4 @@
-# NaviSyk
+# NaviSky
 Privacy policy for a mobile app NaviSky
 Last updated: May 31, 2026
 
