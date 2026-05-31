@@ -22,4 +22,4 @@ Data storage:
 All user data is stored locally on your device. We do not operate servers or databases.
 
 Contact:
-antonospospolitus@gmail.com
+rozwoda.antoni@gmail.com
